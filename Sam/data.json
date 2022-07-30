@@ -1,0 +1,570 @@
+{
+    "courses": {
+            "Maths": {            
+                    "outline": {
+                                        "Algebra": {
+                                                "video": "https://www.youtube.com/embed/grnP3mduZkM",
+                                                "description": "This math video tutorial provides a basic overview of concepts covered in a typical high school algebra 1 & 2 course or a college algebra course.  This video contains plenty of lessons, notes, examples, and practice problems for you to get a good foundation in algebra.<br><br>Here is a list of topics:<div style='text-align: left; margin: 0; padding: 0 2.5rem'>1.  Introduction to Algebra - Online Crash Course Review<br>2.  Monomials, Binomials, and Trinomials<br>3.  Adding and  Subtracting Polynomials with Like Terms<br>4.  Multiplying Two Binomials - Foiling / Foil Method<br>5.  Monomial & Trinomial Multiplication - The Distributive Property<br>6.  Adding, Subtracting and Multiplying Exponents - Rules of Algebra<br>7.  Negative Exponents - Variables and Expressions<br>8.  Simplifying Expressions and Dividing Fractions with Variables<br>9.  Solving Linear Equations With Parenthesis, Fractions, and Decimals<br>10.  Simplifying Complex Fractions<br>11.  How To Solve Quadratic Equations By Factoring<br>12.  Solving Quadratic Equations Using The Quadratic Formula<br>13.  Factoring Trinomials With Leading Coefficient 1<br>14.  How To Factor By Grouping<br>15.  Factoring Polynomials<br>16.  Factoring Binomials Using Difference of Squares Methods<br>17.  Factoring the GCF - Greatest Common Factor<br>18.  Solving Equations With Variables on Both Sides<br>19.  Solving Multi Step Equations<br>20.  Graphing Linear Equations<br>21.  Slope Intercept Form, Point Slope Form and Standard Form<br>22.  How To Write The Equation of the Line<br>23.  Parallel and Perpendicular Lines</div>",
+                                                "pdf": {
+                                                "name": ["Basic Algebra"],
+                                                "link": ["https://www.math.stonybrook.edu/~aknapp/download/b2-alg-inside.pdf"]
+                                                }
+                                        },
+                                        "Vectors": {
+                                                "video": "https://www.youtube.com/embed/GUQJ7zMoSCM",
+                                                "description": "This calculus 3 video tutorial provides a basic introduction into vectors.  It contains plenty of examples and practice problems.  <br><br>Here is a list of topics:<div style='text-align: left; margin: 0; padding: 0 2.5rem'>1.  Scalar quantities vs vector quantities<br>2.  Speed vs velocity<br>3.  Vectors as directed line segments<br>4.  How to find the vector given the initial point and terminal point<br>5.  How to find the find the component form of a vector<br>6.  How to calculate the magnitude of a vector using its components<br>7.  How to determine if two vectors are equivalent<br>8.  Adding and subtracting vectors graphically<br>9.  Performing vector operations<br>10.  Position vectors and unit vectors<br>11.  How to find the unit vector given the components of a sector<br>12.  Standard unit vectors - i j k<br>13.  Linear combination of standard unit vectors<br>14.  How to find the components of a vector given its agnitude and angle<br>15.  How to find the magnitude and angle of a vector in omponent form<br>16.  How to calculate the resultant force of two vectors</div>",
+                                                "pdf": {
+                                                "name": ["Vector Algebra"],
+                                                "link": ["https://www.robots.ox.ac.uk/~sjrob/Teaching/Vectors/course.pdf"]
+                                                }
+                                        },
+                                        "Statistics": {
+                                                "video": "https://www.youtube.com/embed/2_21erD-nBg",
+                                                "description": "This video tutorial provides a basic introduction into statistics.  It explains how to find the mean, median, mode, and range of a data set.  It also explains how to find the interquartile range, quartiles, percentiles as well as any outliers.  The full version of this video which can be found on my patreon page also mentions how to construct box and whisker plots, histograms, frequency tables, frequency distribution tables, dot plots, and stem and leaf plots.  It also covers relative frequency and cumulative relative frequency as well as how to use it to determine the value that a corresponds to a certain percentile.  Finally, this video also discusses skewness - it explains which distribution is symmetric and which is skewed to the right (positive skew) and which is skewed to the left (negative skew).",
+                                                "pdf": {
+                                                "name": ["INTRODUCTION TO STATISTICS"],
+                                                "link": ["http://cs.ioc.ee/ITKStat/files/1_intro.pdf"]
+                                                }
+                                        },
+                                        "Probability": {
+                                                "video": "https://www.youtube.com/embed/SkidyDQuupA",
+                                                "description": "This video provides an introduction to probability.  It explains how to calculate the probability of an event occuring.  It also discusses how to determine the sample space of an event using tree diagrams.",
+                                                "pdf": {
+                                                "name": ["Probability and statistics"],
+                                                "link": ["http://www.utstat.toronto.edu/mikevans/jeffrosenthal/book.pdf"]
+                                                }
+                                        },
+                                        "Calculus": {
+                                                "video": "https://www.youtube.com/embed/WsQQvHm4lSw",
+                                                "description": "This video makes an attempt to teach the fundamentals of calculus 1 such as limits, derivatives, and integration.  It explains how to evaluate a function using limits, how to find the slope of the tangent line using derivatives and the limit definition of a derivative as well as to perform basic integration techniques to calculate the area under the curve.",
+                                                "pdf": {
+                                                "name": ["Calculus"],
+                                                "link": ["https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf"]
+                                                }
+                                        },
+                                        "Coordinate Geometry": {
+                                                "video": "https://www.youtube.com/embed/PXnAKcBipKM",
+                                                "description": "This video tutorial provides a basic introduction into coordinate geometry.  It contains plenty of examples and practice problems.<br><br>Here is a list of topics:<div style='text-align: left; margin: 0; padding: 0 2.5rem'>1.  How to identify the missing coordinate of a right triangle<br>2.  How to calculate the area of a right triangle given the 3 vertices<br>3.  How to identify the coordinates of the center of a circle given the endpoints of a diameter<br>4.  How to calculate the area of a circle<br>5.  Circumference of a circle<br>6.  Writing the standard equation of a circle<br>7.  Midpoint Formula<br>8.  Distance formula between two points<br>9.  How to calculate the slope of a line given two points<br>10.  Writing linear equations in slope intercept form<br>11.  Point slope formula for linear equations<br>12.  Slope of perpendicular lines<br>13.  Standard form of linear equations<br>14.  Writing the equation of the tangent line<br>15.  How to find the x intercept and y intercept of a linear equation<br>16.  Calculating the area of the shaded region<br>17.  How to calculate the distance between two points in 3 dimensions<br>18.  How to plot points in 3d<br>19.  How to find the distance between a point and a line<br>20.  How to calculate the area of the shaded of a circle inscribed in a square<br>21.  Area of an equilateral triangle<br>22.  30 60 90 Triangles - Special right triangles<br>23.  Writing the equation of a median<br>24.  Writing the equation of an altitude<br>25.  Writing the equation of the perpendicular bisector<div>",
+                                                "pdf": {
+                                                "name": ["Coordinate Geometry"],
+                                                "link": ["https://amsi.org.au/teacher_modules/pdfs/Introduction_to_coordinate_geometry.pdf"]
+                                                }
+                                        }
+                                }
+            },
+            "Physics": {            
+                    "outline": {
+                                    "Static & Kinetic Friction": {
+                                            "video": "https://www.youtube.com/embed/pL2YfC-22Uc",
+                                            "description": "This physics tutorial focuses on forces such as static and kinetic frictional forces, tension force, normal force, forces on incline planes and pulley systems.  This video is useful for students taking high school and college level physics.  This basic review / introduction tutorial contains plenty of notes, examples, equations / formulas and practice problems for you to master the concepts to prepare well for your next upcoming quiz / exam.",
+                                            "pdf": {
+                                                "name": ["Static & Kinetic Friction"],
+                                                "link": ["https://www.gunt.de/images/download/Static-and-kinetic-friction-basic-knowledge_english.pdf"]
+                                                }
+                                    },
+                                    "Gravity": {
+                                            "video": "https://www.youtube.com/embed/Ep1jIhHdf2A",
+                                            "description": "This physics video tutorial explains how to calculate the force of gravity between two objects as well as the distance between those objects.  In addition, this video explains how to calculate the net gravitational force on the moon exerted by the sun and moon.  The universal gravitation constant is 6.67 x 10^-11.  This video contains plenty of examples and practice problems.",
+                                            "pdf": {
+                                                "name": ["Gravity"],
+                                                "link": ["https://physics.uwo.ca/~mhoude2/courses/PDF%20files/physics1501/Ch5-Gravitation.pdf"]
+                                                }
+                                    },
+                                    "Specific Heat Capacity": {
+                                            "video": "https://www.youtube.com/embed/ePm_N6RgLfk",
+                                            "description": "This chemistry video tutorial explains the concept of specific heat capacity and it shows you how to use the formula to solve specific heat capacity problems.  This video contains plenty of examples, notes, and practice problems with the calculations to help you master this topic. ",
+                                            "pdf": {
+                                                "name": ["Specific Heat"],
+                                                "link": ["http://kea.kar.nic.in/vikasana/bridge/physics/chap_13.pdf"]
+                                                }
+                                    },
+                                     "Electric Current": {
+                                            "video": "https://www.youtube.com/embed/r-SCyD7f_zI",
+                                            "description": "This physics video tutorial explains the concept of basic electricity and electric current.  It explains how DC circuits work and how to calculate voltage, current, and electrical resistance using Ohm's law.  In addition, it shows you how to calculate the electric charge and the number of electrons flowing through a wire at any given point.  In addition, it has a few examples and practice problems on electric power, cost of electricity in Kwh and other stuff as well.  It provides visual drawings, equations, and formulas as well as the units of common variables that you'll encounter when dealing with electricity.  It discusses the difference between conventional current and electron flow.  The unit of electric current is the ampere or amps for short.  The unit for resistance is ohms and for voltage is volts.  1A is 1C/s or 1 coulomb per second.  Electric current is the rate of electric charge flow.  Charge represents the quantity of electrons in the case of metal conductors.  The unit of power is the watt which is 1 Joule per second.  Power is the rate at which energy is transferred.  Equations used include V=IR, P=VI, and Q=It.",
+                                            "pdf": {
+                                                "name": ["current electricity"],
+                                                "link": ["https://ncert.nic.in/textbook/pdf/leph103.pdf"]
+                                                }
+                                    },
+                                    "Magnetism": {
+                                            "video": "https://www.youtube.com/embed/csMqfwJRjCs",
+                                            "description": "This physics video tutorial focuses on topics related to magnetism such as magnetic fields & force.  It explains how to use the right hand rule to determine the direction of the magnetic force on a moving charge particle and how to use ampere's law to derive the formula of a solenoid.  This video contains plenty of examples and practice problems.  ",
+                                            "pdf": {
+                                                "name": [],
+                                                "link": []
+                                                }
+                                    }
+                                }
+            },
+            "Computer": {            
+                    "outline": {
+                                    "Introduction to Programming and Computer Science": {
+                                            "video": "https://www.youtube.com/embed/zOjov-2OZ0E",
+                                            "description": "In this course, you will learn basics of computer programming and computer science. The concepts you learn apply to any and all programming languages and will be a good base onto which you can build your skills. This video is meant for those who are interested in computer science and programming but have no idea where to start and have little to no background information on coding.",
+                                            "pdf": {
+                                                "name": [],
+                                                "link": []
+                                                }
+                                    },
+                                    "Generation of Computers": {
+                                            "video": "https://www.youtube.com/embed/fjQ0AomS6Lg",
+                                            "description": "By the end of the video, students will be able to 1. Identify the major technological development that characterizes each generation of computers; 2. List down the advantages of disadvantages in each generation; 3. Reflect on what makes the computers perform the way they do now.",
+                                            "pdf": {
+                                                "name": [],
+                                                "link": []
+                                                }
+                                    },
+                                    "Operating Systems": {
+                                            "video": "https://www.youtube.com/embed/26QPDBe-NB8",
+                                            "description": "So as you may have noticed from last episode, computers keep getting faster and faster, and by the start of the 1950s they had gotten so fast that it often took longer to manually load programs via punch cards than to actually run them! The solution was the operating system (or OS), which is just a program with special privileges that allows it to run and manage other programs. So today, we’re going to trace the development of operating systems from the Multics and Atlas Supervisor to Unix and MS-DOS, and take at look at how these systems heavily influenced popular OSes like Linux, Windows, MacOS, and Android that we use today. ",
+                                            "pdf": {
+                                                "name": [],
+                                                "link": []
+                                                }
+                                    },
+                                    "Algorithms": {
+                                            "video": "https://www.youtube.com/embed/rL8X2mlNHPM",
+                                            "description": "Algorithms are the sets of steps necessary to complete computation - they are at the heart of what our devices actually do. And this isn’t a new concept. Since the development of math itself algorithms have been needed to help us complete tasks more efficiently, but today we’re going to take a look a couple modern computing problems like sorting and graph search, and show how we’ve made them more efficient so you can more easily find cheap airfare or map directions to Winterfell... or like a restaurant or something. ",
+                                            "pdf": {
+                                                "name": [],
+                                                "link": []
+                                                }
+                                    },
+                                    "SQL Tutorial": {
+                                            "video": "https://www.youtube.com/embed/HXV3zeQKqGY",
+                                            "description": "In this course, we'll be looking at database management basics and SQL using the MySQL RDBMS. The course is designed for beginners to SQL and database management systems, and will introduce common database management topics. Throughout the course we'll be looking at various topics including schema design, basic C.R.U.D operations, aggregation, nested queries, joins, keys and much more.",
+                                            "pdf": {
+                                                "name": [],
+                                                "link": []
+                                                }
+                                    }
+                                }
+            },
+            "Biology": {            
+                    "outline": {
+                                    "Cell Biology": {
+                                            "video": "https://www.youtube.com/embed/t5DvF5OVr1Y",
+                                            "description": "In this lecture, Zach Murphy, PA-C will present on the structure and function of the cell. We review all of the organelles within the cell including the nucleus, nucleolus, rough endoplasmic reticulum, smooth endoplasmic reticulum, golgi apparatus, mitochondria, ribosome, and so much more!",
+                                            "pdf": {
+                                                "name": ["Overview of cell biology"],
+                                                "link": ["https://www.researchgate.net/publication/325269901_An_Overview_of_Cell_Biology"]
+                                                }
+                                    },
+                                    "Characteristics Of Living Organisms": {
+                                            "video": "https://www.youtube.com/embed/LY-8YXEkDBE",
+                                            "description": "",
+                                            "pdf": {
+                                                "name": [],
+                                                "link": []
+                                                }
+                                    },
+                                    "Macromolecules": {
+                                            "video": "https://www.youtube.com/embed/Y3h2GNajvcY",
+                                            "description": "This Biology video tutorial provides a basic introduction into biomolecules.  It covers the 4 types of biological macromolecules such as carbohydrates, lipids, proteins, and nucleic acids.  It contains plenty of examples and practice problems.",
+                                            "pdf": {
+                                                "name": ["Biological Macromolecules"],
+                                                "link": ["https://www.k-state.edu/bmb/labs/jc/teaching/bioch590/bioch590-1-Intro.pdf"]
+                                                }
+                                    },
+                                    "The Skeletal System": {
+                                            "video": "https://www.youtube.com/embed/f-FF7Qigd3U",
+                                            "description": "Now that we know more about the structure of bones, we are ready to see how they all come together to form the skeletal system. An adult has 206 bones. What are they? How are they organized? What do they do? Let's go through all of these bones right now!",
+                                            "pdf": {
+                                                "name": [],
+                                                "link": []
+                                                }
+                                    },
+                                    "Gametogenesis": {
+                                            "video": "https://www.youtube.com/embed/P2xrao18BKM",
+                                            "description": "Mr. Lima discusses the process of human gametogenesis (male / female",
+                                            "pdf": {
+                                                "name": [],
+                                                "link": []
+                                                }
+                                    }
+                                }
+            },
+            "Engineering": {            
+                    "outline": {
+                                    "classical mechanics": {
+                                            "video": "https://www.youtube.com/embed/ApUFtLCrU90",
+                                            "description": "Leonard Susskind gives a brief introduction to the mathematics behind physics including the addition and multiplication of vectors as well as velocity and acceleration in terms of particles.",
+                                            "pdf": {
+                                                "name": [],
+                                                "link": []
+                                                }
+                                    },
+                                    "General Relativity": {
+                                            "video": "https://www.youtube.com/embed/tzQC3uYL67U",
+                                            "description": "When Albert Einstein first published the Special Theory of relativity in 1905, he was  ridiculed. People thought it was just too weird and radical to be real. Einstein wasn’t satisfied with his theory either, because the theory did not apply if Gravity was present or if the observer was accelerating. One day, while observing a window washer on a ladder near his patent office, he had a thought experiments. He imagined what would happen if the worker were to fall. He put himself in the window washer’s perspective, and imagined  what he would experience as he was falling. He realized that if he was falling, gravity would be the only force acting on him. He would be accelerating towards the ground, but since the ground would not be pushing up on his body, he would feel no weight. And this would be no different than being weightless in space. In a way gravity and acceleration were different ways to describe the same thing. The way to connect gravity in the theory of relativity was through the idea of acceleration, and this became the basis of general relativity. ",
+                                            "pdf": {
+                                                "name": [],
+                                                "link": []
+                                                }
+                                    },
+                                    "Arduino": {
+                                            "video": "https://www.youtube.com/embed/zJ-LqeX_fLU",
+                                            "description": "Learn how to use Arduino hardware and software in this full course for beginners. Arduino is an easy-to-use, open-source electronics platform. Arduino boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message - and turn it into an output - activating a motor, turning on an LED, publishing something online. You can tell your board what to do by sending a set of instructions to the microcontroller on the board.",
+                                            "pdf": {
+                                                "name": [],
+                                                "link": []
+                                                }
+                                    },
+                                    "Circuit Analysis": {
+                                            "video": "https://www.youtube.com/embed/-w-VTw0tQlE",
+                                            "description": "How does Stranger Things fit in with Physics and, more specifically, circuit analysis? I'm glad you asked! In this episode of Crash Course Physics, Shini walks us through the differences between series and parallel circuits and how that makes Christmas lights work the way they work.",
+                                            "pdf": {
+                                                "name": [],
+                                                "link": []
+                                                }
+                                    },
+                                    "COMMUNICATION SYSTEM": {
+                                            "video": "",
+                                            "description": "Introduction to  communication system",
+                                            "pdf": {
+                                                "name": [],
+                                                "link": []
+                                                }
+                                    }
+                                }
+            },
+            "Chemistry": {            
+                    "outline": {
+                                    "General Chemistry": {
+                                            "video": "https://www.youtube.com/embed/5yw1YH7YA7c",
+                                            "description": "This video tutorial study guide review is for students who are taking their first semester of college general chemistry, IB, or AP Chemistry.  Even if you’re studying for the general chemistry section of the MCAT, DAT, PCAT, OAT or SAT Subject chemistry",
+                                            "pdf": {
+                                                "name": [],
+                                                "link": []
+                                                }
+                                    },
+                                    "Inorganic Chemistry": {
+                                            "video": "https://www.youtube.com/embed/L_EbE8Tc7bQ",
+                                            "description": "Recap Year 1/AS Chemistry! This forms part of Paper 1 for OCR A-Level Chemistry. You'll cover chapters 2-10 learning the key facts you need to pass your exams.",
+                                            "pdf": {
+                                                "name": [],
+                                                "link": []
+                                                }
+                                    },
+                                    "Heat and Mass Transfer": {
+                                            "video": "https://www.youtube.com/embed/1GGJFnHlKT4",
+                                            "description": "In this video, we introduce the core concepts behind heat and mass transfer. We describe the general flux equation, the drive for heat and/or mass transfer, talk about dimensional analysis, and think about an example involving sweat",
+                                            "pdf": {
+                                                "name": [],
+                                                "link": []
+                                                }
+                                    },
+                                    "Organic Chemistry": {
+                                            "video": "https://www.youtube.com/embed/B_ketdzJtY8",
+                                            "description": "This video provides a basic introduction for college students who are about to take the 1st semester of organic chemistry.  It covers topics such as polar and nonpolar bonds, ionic & covalent bonding, alkanes, alkenes, alkynes, bond length, bond strength, sigma & pi bonds, hybridization, formal charge, functional groups and drawing lewis structures.",
+                                            "pdf": {
+                                                "name": [],
+                                                "link": []
+                                                }
+                                    },
+                                    "Physical chemistry": {
+                                            "video": "https://www.youtube.com/embed/PQechXuFoyI",
+                                            "description": "Physical chemistry is the study of macroscopic, and particulate phenomena in chemical systems in terms of the principles, practices, and concepts of physics such as motion, energy, force, time, #thermodynamics, #quantum chemistry, #statistical mechanics, analytical dynamics and chemical equilibrium. #PhysicalChemistry, in contrast to chemical physics, is predominantly (but not always) a macroscopic or supra-molecular science, as the majority of the principles on which it was founded relate to the bulk rather than the molecular/atomic structure alone (for example, chemical equilibrium and colloids). (Source: wikipedia)",
+                                            "pdf": {
+                                                "name": [],
+                                                "link": []
+                                                }
+                                    }
+                                }
+            },
+            "Business": {            
+                    "outline": {
+                                    "ACCOUNTING": {
+                                            "video": "https://www.youtube.com/embed/yYX4bvQSqbo",
+                                            "description": "Would you like to know what Accounting REALLY MEANS? In this short tutorial we'll take 1 simple example and follow it through all 8 Steps of the Accounting Cycle - from start to finish - you'll build a solid understanding of all the Accounting Basics we encounter along the way. Stuff like the Accounting Equation, Debits & Credits, Double-Entry Accounting, T-Accounts, the Trial Balance etc. If you're an Accounting Beginner, then I recommend watching this all the way through to the end - at least once - to get a complete picture of how Accounting works. Afterwards, you can jump into my Accounting Basics Playlist (see below) and explore every topic in more detail.",
+                                            "pdf": {
+                                                "name": [],
+                                                "link": []
+                                                }
+                                    },
+                                    "Corporate Finance": {
+                                            "video": "https://www.youtube.com/embed/5eGRi66iUfU",
+                                            "description": "Our Intro to Corporate Finance Course will teach you who the key players in the capital markets are, what the capital raising process looks like, the main business valuation techniques, types of valuation multiples, how to structure an M&A deal, how to finance an acquisition, types of equity securities, and an overview of career paths as well as how to prepare for interviews.",
+                                            "pdf": {
+                                                "name": [],
+                                                "link": []
+                                                }
+                                    },
+                                    "Econometrics": {
+                                            "video": "https://www.youtube.com/embed/vEP4RIOKuE4",
+                                            "description": "This is an introduction to econometrics tutorial. This video is a basic overview and touches on each of these subjects:<div style='text-align: left; margin: 0; padding: 0 2.5rem'>1. What is Econometrics?<br>2. Goals of Econometrics<br>3. Types of Economic Data<br>4. The 'Simple Linear Regression' (SLR)<br>5. Causality<br><br>This lecture on econometric theory is meant to introduce the student to the concepts of econometrics, as well as provide a basic overview of what the topic of econometrics encompasses. ",
+                                            "pdf": {
+                                                "name": [],
+                                                "link": []
+                                                }
+                                    },
+                                    "Financial Accounting": {
+                                            "video": "https://www.youtube.com/embed/Rpa_UAciIeU",
+                                            "description": "In this Module we explore accounting terminology and learn to prepare the income statement, statement of changes in shareholders' equity, and the balance sheet.  Basic financial ratios are analyzed.",
+                                            "pdf": {
+                                                "name": [],
+                                                "link": []
+                                                }
+                                    },
+                                    "Macroeconomics": {
+                                            "video": "https://www.youtube.com/embed/MKO1icFVtDc",
+                                            "description": "In this video I quickly cover all the concepts and graph that you will see in an AP macroeconomics or college-level introductory macroeconomics course. Dn't take notes. Just get the big picture. I talk about scarcity, opportunity cost, the PPC, comparative advantage, supply and demand, GDP, unemployment, inflation, aggregate demand and supply, LRAS, Phillips Curve, economic growth, fiscal policy, money, banking, monetary policy, the Money Market, loanable funds, the balance of payments, and exchange rates. Wow! That's a lot of stuff. Good luck on your test! ",
+                                            "pdf": {
+                                                "name": [],
+                                                "link": []
+                                                }
+                                    }
+                                }
+            },
+            "Mechanical": {            
+                    "outline": {
+                                    "Dynamics": {
+                                            "video": "https://www.youtube.com/embed/lZ9W0eUhX_Q",
+                                            "description": "Dynamics is a subset of mechanics, which is the study of motion. Whereas kinetics studies that motion itself, dynamics is concerned about the CAUSES  of motion. In particular, it involves the concepts of force, momentum and energy. This video gives an overview of what dynamics is, and is useful as an intro to its study, or as a review.",
+                                            "pdf": {
+                                                "name": [],
+                                                "link": []
+                                                }
+                                    },
+                                    "Fluid Mechanics": {
+                                            "video": "https://www.youtube.com/embed/clVwKynHpB0",
+                                            "description": "This lecture series was recorded live at Cal Poly Pomona during Fall 2014. The textbook is Munson et al., 'Fundamentals of Fluid Mechanics (7th edition).'",
+                                            "pdf": {
+                                                "name": [],
+                                                "link": []
+                                                }
+                                    },
+                                    "Machine Design": {
+                                            "video": "",
+                                            "description": "In this live lecture, You will get to know:<br> 1) How to Prepare Machine Design?<br> 2) Machine Design Preparation Strategy<br> 3) Theories of Failure",
+                                            "pdf": {
+                                                "name": [],
+                                                "link": []
+                                                }
+                                    },
+                                    "Statics": {
+                                            "video": "",
+                                            "description": "Statics Lecture on Mechanics, Fundamental Concepts, Units, Significant Figures/Digits",
+                                            "pdf": {
+                                                "name": [],
+                                                "link": []
+                                                }
+                                    },
+                                    "Vibration Analysis": {
+                                            "video": "",
+                                            "description": "Abstract: <br>Have you ever wondered how vibration analysis works but were afraid to get into the technical jargon? Well, you will love this webinar. Using a ton of 3D animations and animated simulators, we make it easy to understand how vibration analysis is able to reveal the nature and severity of a whole range of fault conditions and conditions that will result in future failures. <br> We will keep it simple and focus on the fundamental issues how you collect the measurements, what the spectrum is (with a brief intro to phase and the time waveform), and how the patterns indicate what is going wrong with the machine and how quickly you need to act. Every new vibration analyst needs to see this webinar, but if you are involved with reliability improvement, or you have vibration contractors test your machines, then the Webinar will help you to make more sense of the information they provide to you.",
+                                            "pdf": {
+                                                "name": [],
+                                                "link": []
+                                                }
+                                    }
+                                }
+            },
+            "Electrical": {            
+                    "outline": {
+                                    "digital circuits": {
+                                            "video": "https://www.youtube.com/embed/pyFyUsAeYPQ",
+                                            "description": "An Introduction to Digital Circuits",
+                                            "pdf": {
+                                                "name": [],
+                                                "link": []
+                                                }
+                                    },
+                                     "Electric Current": {
+                                            "video": "https://www.youtube.com/embed/r-SCyD7f_zI",
+                                            "description": "This physics video tutorial explains the concept of basic electricity and electric current.  It explains how DC circuits work and how to calculate voltage, current, and electrical resistance using Ohm's law.  In addition, it shows you how to calculate the electric charge and the number of electrons flowing through a wire at any given point.  In addition, it has a few examples and practice problems on electric power, cost of electricity in Kwh and other stuff as well.  It provides visual drawings, equations, and formulas as well as the units of common variables that you'll encounter when dealing with electricity.  It discusses the difference between conventional current and electron flow.  The unit of electric current is the ampere or amps for short.  The unit for resistance is ohms and for voltage is volts.  1A is 1C/s or 1 coulomb per second.  Electric current is the rate of electric charge flow.  Charge represents the quantity of electrons in the case of metal conductors.  The unit of power is the watt which is 1 Joule per second.  Power is the rate at which energy is transferred.  Equations used include V=IR, P=VI, and Q=It.",
+                                            "pdf": {
+                                                "name": ["current electricity"],
+                                                "link": ["https://ncert.nic.in/textbook/pdf/leph103.pdf"]
+                                                }
+                                    },
+                                    "Electronic Circuits": {
+                                            "video": "https://www.youtube.com/embed/uXr4lXYjXuU",
+                                            "description": "This video provides an introduction into basic electronics for beginners.  It covers topics such as series and parallel circuits, ohm's law, light emitting diodes, resistors, potentiometers, voltage divider circuits and more.",
+                                            "pdf": {
+                                                "name": [],
+                                                "link": []
+                                                }
+                                    },
+                                    "Electronic Devices": {
+                                            "video": "https://www.youtube.com/embed/n-CYKFZKxX8",
+                                            "description": "Introduction to Electronic Devices & Circuits",
+                                            "pdf": {
+                                                "name": [],
+                                                "link": []
+                                                }
+                                    },
+                                    "microcontroller": {
+                                            "video": "https://www.youtube.com/embed/JwCTkm43CxQ",
+                                            "description": "This video explains what is a microcontroller, from what microcontroller consists and how it operates. This video is intended as an introductory video that briefly covers all the main parts that makes a microcontroller a microcontroller starting from hardware and ending with software. This should be a good video for those who maybe have some knowledge in electronics and microcontrollers, but they want to see how everything works together.",
+                                            "pdf": {
+                                                "name": [],
+                                                "link": []
+                                                }
+                                    }
+                                }
+            },
+            "Medicine": {            
+                    "outline": {
+                                    "Anatomy": {
+                                            "video": "https://www.youtube.com/embed/f6rZw7QkGLw",
+                                            "description": "This brief video tutorial discusses the anatomical position, directional terms and planes/sections. The focus for planes/sections are in the context of radiographic imaging.",
+                                            "pdf": {
+                                                "name": [],
+                                                "link": []
+                                                }
+                                    },
+                                     "Biomechanics": {
+                                            "video": "https://www.youtube.com/embed/LnM74brIZPE",
+                                            "description": "Learn what biomechanics is all about in this introductory video to Applied Biomechanics. This lecture is part of a free video series covering topics related to biomechanics",
+                                            "pdf": {
+                                                "name": ["current electricity"],
+                                                "link": ["https://ncert.nic.in/textbook/pdf/leph103.pdf"]
+                                                }
+                                    },
+                                    "Epidemiology": {
+                                            "video": "https://www.youtube.com/embed/r9poHB-ldqk",
+                                            "description": "What epidemiology is, and why it's important? Risk Bites provides a simple introduction to what epidemiology is, and how to make sense of epidemiology studies when people's health is on the line. With Mariya Voytyuk. Written, illustrated, narrated and filmed by Dr. Mariya Voytyuk",
+                                            "pdf": {
+                                                "name": [],
+                                                "link": []
+                                                }
+                                    },
+                                    "Neuroscience": {
+                                            "video": "https://www.youtube.com/embed/nlSL7Qg7-Po",
+                                            "description": "Video of the Introduction to Neuroscience lecture by John H. Byrne, Ph.D., for the medical neuroscience course at the McGovern Medical School at UTHealth, Houston, Texas.",
+                                            "pdf": {
+                                                "name": [],
+                                                "link": []
+                                                }
+                                    },
+                                    "microcontroller": {
+                                            "video": "https://www.youtube.com/embed/RNNjN065y5o",
+                                            "description": "Dr. Larry Johnson discusses the history of toxicological events leading to current studies and current regulatory agencies, toxicology terms and concepts from a fun approach, major effects of toxicants and organ damage, routes and sources of toxicant, and careers in toxicology.",
+                                            "pdf": {
+                                                "name": [],
+                                                "link": []
+                                                }
+                                    }
+                                }
+            }
+    },
+    "profiles": {
+        "190194112" : {
+                "name": "Oloyede Fatima oluwatoyin",
+                "img": "images/profiles/fatima.jpeg"
+        },
+        "190194139" : {
+                "name": "Whetode henry whetode",
+                "img": "images/profiles/henry.jpeg"
+        },
+        "190194117" : {
+                "name": "Oshintayo Samuel ayomide",
+                "img": "images/profiles/samuel.jpeg"
+        },
+        "20019405" : {
+                "name": "REUBEN SAMUEL OLUWOLE. DE",
+                "img": "images/profiles/reuben.jpeg"
+        },
+        "190194110" : {
+                "name": "OLARINDE SEVOVO VICTORIA",
+                "img": "images/profiles/victoria.jpeg"
+        },
+        "190194116" : {
+                "name": "Opeseyi hezekiah ademola",
+                "img": "images/profiles/ademola.jpeg"
+        },
+        "190194140" : {
+                "name": "Yahya ajara kofoworola",
+                "img": "images/profiles/ajara.jpeg"
+        },
+        "190194135" : {
+                "name": "Obidience uwem udoh",
+                "img": "images/profiles/uwem.jpeg"
+        },
+        "190194123" : {
+                "name": "Raji titilope idayat",
+                "img": "images/profiles/raji.jpeg"
+        },
+        "190194118" : {
+                "name": "Osumare fuad lekan",
+                "img": "images/profiles/fuad.jpeg"
+        },
+        "190194138" : {
+                "name": "Uzor uchechi carol",
+                "img": "images/profiles/carol.jpeg"
+        },
+        "190194130" : {
+                "name": "Taiwo femi",
+                "img": "images/profiles/femi.jpeg"
+        },
+        "190194142" : {
+                "name": "Yusuf Mubarak ayomide",
+                "img": "images/profiles/yusuf.jpeg"
+        },
+        "190194122" : {
+                "name": "Rabiu Samuel adebola",
+                "img": "images/profiles/rabiu.jpeg"
+        },
+        "190194143" : {
+                "name": "Zannu Monica manzonsu",
+                "img": "images/profiles/zannu.jpeg"
+        },
+        "190194136" : {
+                "name": "Ugwuadu somotoochukwu chioma",
+                "img": "images/profiles/chioma.jpeg"
+        },
+        "190194124" : {
+                "name": "Rasheed tawakalit eniolohunfe",
+                "img": "images/profiles/rasheed.jpeg"
+        },
+        "190194128" : {
+                "name": "Surajat Abimbola  shuaib",
+                "img": "images/profiles/abimbola.jpeg"
+        },
+        "190194113" : {
+                "name": "Olufowobi titilope shukurat",
+                "img": "images/profiles/titi.jpeg"
+        },
+        "190194120" : {
+                "name": "Qassim balikis  omolola",
+                "img": "images/profiles/lola.jpeg"
+        },
+        "190194107" : {
+                "name": "OLADUNNI BABATUNDE SHAKIRUDEEN",
+                "img": "images/profiles/dunni.jpeg"
+        },
+        "190194126" : {
+                "name": "Sabiu tobi Samuel",
+                "img": "images/profiles/tobi.jpeg"
+        },
+        "190194119" : {
+                "name": "Peter praise ifeoluwa",
+                "img": "images/profiles/praise.jpeg"
+        },
+        "190194108" : {
+                "name": "OLAJIDE ABDULRASAQ TOLANNY",
+                "img": "images/profiles/olajide.jpeg"
+        },
+        "190194114" : {
+                "name": "Opadele omotoyosi priscilia",
+                "img": "images/profiles/dele.jpeg"
+        },
+        "190194121" : {
+                "name": "Quadri quadrat opeyemi",
+                "img": "images/profiles/ope.jpeg"
+        },
+        "190194132" : {
+                "name": "Taiwo taibat medometon",
+                "img": "images/profiles/taiwo.jpeg"
+        },
+        "190194115" : {
+                "name": "Opaleye Feyisara Mary",
+                "img": "images/profiles/mary.jpeg"
+        },
+        "190194134" : {
+                "name": "Tijani Muhammed Olajide",
+                "img": "images/profiles/tijani.jpeg"
+        }
+    }
+}

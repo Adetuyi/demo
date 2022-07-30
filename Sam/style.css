@@ -1,0 +1,287 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  text-align: center;
+
+  font-family: "Glory", sans-serif;
+  padding: 0;
+  margin: 0;
+}
+h4 {
+  font-size: 25px;
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+  text-transform: uppercase;
+  font-weight: 700;
+}
+h3,
+h4,
+h5 {
+  color: #19a4ce;
+}
+.main h1 {
+  margin: 0;
+  text-transform: uppercase;
+}
+.head {
+  background-color: #3eadcf;
+  color: #fff;
+  padding: 1rem 0;
+  box-shadow: 2px 3px 8px rgba(0, 0, 0, 0.5);
+}
+.dark {
+  margin: 0;
+  color: #eee;
+  font-style: italic;
+}
+.intro {
+  padding: 4rem 1rem 0;
+  font-size: 2rem;
+}
+.devs {
+  margin-bottom: 3rem;
+  width: 100%;
+  position: relative;
+  height: fit-content;
+}
+.devs h5 {
+  margin-top: 0;
+  font-size: 28px;
+}
+.toggle {
+  position: absolute;
+  bottom: -2.7rem;
+  background-color: #fff;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.profiles {
+  display: grid;
+  place-items: center;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 5px;
+  padding: 2rem 1rem;
+  margin: 0 1rem 5rem;
+  border-radius: 8px;
+  overflow: hidden;
+  height: 33rem;
+  box-shadow: 0 5px 20px rgb(216, 216, 216);
+  transition: height 2s ease-in;
+}
+.profile {
+  width: fit-content;
+}
+.profile img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.profile .name {
+  text-transform: uppercase;
+  font-size: 13px;
+  font-weight: 700;
+  text-align: center;
+}
+.profile .matric_no {
+  font-size: 16px;
+  font-weight: 700;
+  color: #333;
+}
+.icon {
+  margin: 0.4rem;
+  box-shadow: 3px 3px 10px rgb(207, 207, 207);
+}
+.icon i {
+  font-size: 4rem;
+}
+.course {
+  width: 80%;
+  margin: 0 auto;
+}
+.categories .icon {
+  width: 200px;
+  max-width: 100%;
+  height: fit-content;
+  padding: 1.5rem 0;
+  text-decoration: none;
+  text-align: center;
+  color: #555;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 38px;
+  letter-spacing: 0.1rem;
+  text-transform: uppercase;
+  border-radius: 4px;
+  border: 1px solid #999;
+  cursor: pointer;
+}
+.categories .icon:hover,
+.outline button:hover,
+.pdfs button:hover {
+  transition: 0.3s ease-in-out;
+  color: #fff;
+  background-color: #abe9cd;
+  background-image: linear-gradient(315deg, #61cef0 0%, #3eadcf 74%);
+
+  border-color: #222;
+  outline: 0;
+}
+.categories {
+  padding: 0 1rem;
+}
+
+/*
+
+
+
+*/
+#outline {
+  visibility: hidden;
+}
+.outline-area hr {
+  width: 4rem !important;
+}
+.outline-area {
+  display: none;
+  margin: 0 0 2rem;
+}
+.outline button {
+  white-space: nowrap;
+  color: #555;
+  box-shadow: 0 0 5px 1px rgb(207, 207, 207);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 45%;
+  text-align: left;
+  margin: 0 0.5rem 1rem;
+}
+
+.categories-area hr {
+  width: 15rem;
+  border-radius: 20px;
+  margin-top: -1.6rem;
+  text-align: center;
+  border: 2px solid #19a4ce;
+}
+.outline {
+  padding: 0 2rem;
+  width: fit-content;
+  margin: 0 auto;
+}
+.popup-container {
+  position: absolute;
+  overflow: hidden;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #eee;
+  overflow: auto;
+  display: none;
+}
+.popup {
+  padding: 5rem 7rem;
+  position: relative;
+  color: #000;
+}
+.popup h5 {
+  margin: 0;
+}
+.fa-times {
+  position: absolute;
+  top: 50px;
+  right: 50px;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.video {
+  max-width: 80vw;
+}
+.description {
+  max-width: 80%;
+  margin: 2rem auto 0;
+}
+.popup h3 {
+  margin-bottom: 30px;
+}
+.popup h5 {
+  margin-top: 4rem;
+}
+.pdfs {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 2rem;
+}
+.pdfs a {
+  text-decoration: none;
+}
+.pdfs i {
+  font-size: 2.5rem;
+  margin-right: 15px;
+}
+.pdfs button {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0;
+  padding: 10px 20px 10px 7px;
+}
+
+@media screen and (max-width: 540px) {
+  .categories .icon {
+    width: 150px;
+    max-width: 45%;
+    padding: 1rem 20px;
+    font-size: 12px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+}
+@media screen and (max-width: 500px) {
+  .outline {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+  .outline button {
+    width: 80%;
+  }
+  .popup {
+    padding: 2em 0;
+  }
+  .fa-times {
+    top: 33px;
+    right: 11px;
+  }
+  .popup h3 {
+    font-size: 2.7rem;
+    width: 80%;
+    margin: 0 auto;
+  }
+  .video {
+    height: 200px;
+  }
+}
+
+@media screen and (max-width: 475px) {
+  .profile img {
+    width: 80px;
+    height: 80px;
+  }
+  .profile .name {
+    font-size: 10px;
+  }
+  .profile .matric_no {
+    font-size: 11px;
+  }
+}
